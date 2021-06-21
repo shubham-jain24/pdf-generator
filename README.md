@@ -123,7 +123,7 @@ Installing through CLI
       * right
       * justify
 
-  ## Footer
+  ### Footer
   ```
   footer:{
         addFooter: true,
