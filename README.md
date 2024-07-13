@@ -1,4 +1,7 @@
 # [jspdf-autogenerator](https://www.npmjs.com/package/jspdf-autogenerator)
+
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)
+
 NPM - Package - For Downloading PDF (Vue JS)<br>
 Dependency - [JSPDF](https://www.npmjs.com/package/jspdf) and [JSPDF AutoTable](https://www.npmjs.com/package/jspdf-autotable)
 
